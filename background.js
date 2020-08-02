@@ -7,6 +7,7 @@ function clearBadgeText() {
 function setBadgeText(count) {
 
     clearTimeout(timeoutId);
+    timeoutId = 0;
 
     if (count < 2) {
 
