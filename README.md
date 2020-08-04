@@ -1,10 +1,10 @@
 # Find My Meeting
 
-Has this ever happend to you?! You're using Google Meet™ with Google Chrome™ and you switch to another window and... you can't... just **can't** find your active meeting tab anymore! It's lost in a sea of browser windows and tabs!
+Has this ever happened to you?! You're using Google Meet™ with Google Chrome™ and you switch to another window and... you can't... just **can't** find your active meeting tab anymore! It's lost in a sea of browser windows and tabs!
 
-Sure, you can look for the little "tab is using the camera or microphone" indicator... but what if you have dozens of windows, each with dozens of tabs?! How frustrating! How unprofessional! How embarassing!
+Sure, you can look for the little "tab is using the camera or microphone" indicator... but what if you have dozens of windows, each with dozens of tabs?! How frustrating! How unprofessional! How embarrassing!
 
-But wait! This extension provides a simple solution to your "lost meeting" woes! Just click on its icon and **all** tabs open to a `meet.googe.com` URL will be activated and focused upon!
+But wait! This extension provides a simple solution to your "lost meeting" woes! Just click on its icon and **all** tabs open to a `meet.googe.com` URL will be activated and focused to the foreground!
 
 ![Example with Arrows](images/example-arrows.png)
 

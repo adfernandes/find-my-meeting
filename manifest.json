@@ -1,11 +1,11 @@
 {
-    "description": "Activate all your Google Meet™ tabs!",
+    "description": "Find and activate all your Google Meet™ tabs!",
     "manifest_version": 2,
     "name": "Find My Meeting",
     "permissions": [
         "tabs"
     ],
-    "version": "1.0",
+    "version": "1.1",
     "icons": {
         "16": "icons/bullseye-16.png",
         "24": "icons/bullseye-24.png",
