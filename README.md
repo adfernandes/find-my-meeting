@@ -1,18 +1,10 @@
-# Find My Meeting
+# Find My Calendar
 
-Has this ever happened to you?! You're using Google Meet™ with Google Chrome™ and you switch to another window and... you can't... just **can't** find your active meeting tab anymore! It's lost in a sea of browser windows and tabs!
+**Exactly** like [Find My Meeting](https://github.com/adfernandes/find-my-meeting/tree/master), but for Google Calendar™!
 
-Sure, you can look for the little "tab is using the camera or microphone" indicator... but what if you have dozens of windows, each with dozens of tabs?! How frustrating! How unprofessional! How embarrassing!
+![Find My Calendar](icons/calendar-256.png)
 
-But wait! This extension provides a simple solution to your "lost meeting" woes! Just click on its icon and **all** tabs open to a `meet.googe.com` URL will be activated and focused to the foreground!
-
-![Example with Arrows](images/example-arrows.png)
-
-If you're a wee bit crazy and have **more** than one Google Meet™ tab open, a little badge will temporarily appear to tell you just how many Google Meet™ tabs were found, activated and focused!
-
-![Example with Count](images/example-count.png)
-
-No more looking like a goofball during your meeting as you furiously hunt through browser windows and tabs... just click on `Find My Meeting` and be done with it!
+If there's more than one tab found, all of them will be brought forward and a _temporary_ little icon badge will tell you how many tabs were found!
 
 ## Privacy Policy
 

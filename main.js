@@ -1,4 +1,4 @@
-chrome.tabs.query({ url: "*://meet.google.com/*" }, function (result) {
+chrome.tabs.query({ url: "*://calendar.google.com/*" }, function (result) {
 
     var count = 0;
 
