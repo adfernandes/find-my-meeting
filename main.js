@@ -1,4 +1,4 @@
-chrome.tabs.query({ url: "*://meet.google.com/*" }, function (result) {
+chrome.tabs.query({ url: "*://mail.google.com/*" }, function (result) {
 
     var count = 0;
 

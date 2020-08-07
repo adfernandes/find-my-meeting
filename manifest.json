@@ -1,26 +1,26 @@
 {
-    "description": "Find and activate all your Google Meet™ tabs!",
+    "description": "Find and activate all your Google Mail™ tabs!",
     "manifest_version": 2,
-    "name": "Find My Meeting",
+    "name": "Find My Mail",
     "permissions": [
         "tabs"
     ],
     "version": "1.1",
     "icons": {
-        "16": "icons/bullseye-16.png",
-        "24": "icons/bullseye-24.png",
-        "32": "icons/bullseye-32.png",
-        "48": "icons/bullseye-48.png",
-        "64": "icons/bullseye-64.png",
-        "96": "icons/bullseye-96.png",
-        "128": "icons/bullseye-128.png",
-        "256": "icons/bullseye-256.png",
-        "768": "icons/bullseye-768.png"
+        "16": "icons/mail-16.png",
+        "24": "icons/mail-24.png",
+        "32": "icons/mail-32.png",
+        "48": "icons/mail-48.png",
+        "64": "icons/mail-64.png",
+        "96": "icons/mail-96.png",
+        "128": "icons/mail-128.png",
+        "256": "icons/mail-256.png",
+        "768": "icons/mail-720.png"
     },
     "browser_action": {
       "browser_style": true,
       "default_area": "tabstrip",
-      "default_tite": "Find My Meeting",
+      "default_tite": "Find My Mail",
       "default_popup": "main.html"
     },
     "background": {
