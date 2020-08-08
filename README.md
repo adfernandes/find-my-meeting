@@ -16,7 +16,7 @@ There are _way_ too many exclamation marks in the [README](README.md)!
 
 ### See Also
 
-[Find My Mail](https://github.com/adfernandes/find-my-meeting/tree/find-my-mail) and [Find My Calendar](https://github.com/adfernandes/find-my-meeting/tree/find-my-calendar)!
+[Find My Meeting](https://github.com/adfernandes/find-my-meeting) and [Find My Calendar](https://github.com/adfernandes/find-my-meeting/tree/find-my-calendar)!
 
 -----
 
