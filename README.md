@@ -4,7 +4,7 @@ Has this ever happened to you?! You're using Google Meetâ„¢ with Google Chromeâ„
 
 Sure, you can look for the little "tab is using the camera or microphone" indicator... but what if you have dozens of windows, each with dozens of tabs?! How frustrating! How unprofessional! How embarrassing!
 
-But wait! This extension provides a simple solution to your "lost meeting" woes! Just click on its icon and **all** tabs open to a `meet.googe.com` URL will be activated and focused to the foreground!
+But wait! This extension provides a simple solution to your "lost meeting" woes! Just click on its icon and **all** tabs open to a [meet.google.com](https://meet.google.com) URL will be activated and focused to the foreground!
 
 ![Example with Arrows](images/example-arrows.png)
 
